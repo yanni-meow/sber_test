@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sber_test/static/css/main.ee3a2159.chunk.css",
-    "main.js": "/sber_test/static/js/main.7d034224.chunk.js",
-    "main.js.map": "/sber_test/static/js/main.7d034224.chunk.js.map",
-    "runtime-main.js": "/sber_test/static/js/runtime-main.82074930.js",
-    "runtime-main.js.map": "/sber_test/static/js/runtime-main.82074930.js.map",
-    "static/js/2.ea83b1e9.chunk.js": "/sber_test/static/js/2.ea83b1e9.chunk.js",
-    "static/js/2.ea83b1e9.chunk.js.map": "/sber_test/static/js/2.ea83b1e9.chunk.js.map",
-    "index.html": "/sber_test/index.html",
-    "static/css/main.ee3a2159.chunk.css.map": "/sber_test/static/css/main.ee3a2159.chunk.css.map",
-    "static/js/2.ea83b1e9.chunk.js.LICENSE.txt": "/sber_test/static/js/2.ea83b1e9.chunk.js.LICENSE.txt"
+    "main.css": "/sber_test/build/static/css/main.ee3a2159.chunk.css",
+    "main.js": "/sber_test/build/static/js/main.7d034224.chunk.js",
+    "main.js.map": "/sber_test/build/static/js/main.7d034224.chunk.js.map",
+    "runtime-main.js": "/sber_test/build/static/js/runtime-main.211990fe.js",
+    "runtime-main.js.map": "/sber_test/build/static/js/runtime-main.211990fe.js.map",
+    "static/js/2.ea83b1e9.chunk.js": "/sber_test/build/static/js/2.ea83b1e9.chunk.js",
+    "static/js/2.ea83b1e9.chunk.js.map": "/sber_test/build/static/js/2.ea83b1e9.chunk.js.map",
+    "index.html": "/sber_test/build/index.html",
+    "static/css/main.ee3a2159.chunk.css.map": "/sber_test/build/static/css/main.ee3a2159.chunk.css.map",
+    "static/js/2.ea83b1e9.chunk.js.LICENSE.txt": "/sber_test/build/static/js/2.ea83b1e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82074930.js",
+    "static/js/runtime-main.211990fe.js",
     "static/js/2.ea83b1e9.chunk.js",
     "static/css/main.ee3a2159.chunk.css",
     "static/js/main.7d034224.chunk.js"
