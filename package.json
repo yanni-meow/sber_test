@@ -2,7 +2,7 @@
   "name": "q",
   "version": "0.1.0",
   "private": false,
-  "homepage": "./build",
+  "homepage": "https://yanni-meow.github.io/sber_test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
